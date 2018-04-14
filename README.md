@@ -83,15 +83,15 @@ Repository | Description
 
 **proxy**
 
-[haproxy](https://github.com/haproxy-unofficial-obsolete-mirrors/haproxy) Unoffical fork of haproxy development repository
-[toxiproxy](https://github.com/Shopify/toxiproxy) A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-[openresty](https://github.com/openresty/openresty) Turning Nginx into a Full-Fledged Scriptable Web Platform
-[kong](https://github.com/Kong/kong) The Microservice API Gateway
-[kcptun](https://github.com/xtaci/kcptun) A Fast & Secure Tunnel Based On KCP with N:M Multiplexing
-[nginx-resource](https://github.com/fcambus/nginx-resources) A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
-[twemproxy](https://github.com/twitter/twemproxy) A fast, light-weight proxy for memcached and redis
-[tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features
-[traefik](https://github.com/containous/traefik) Træfik, a modern reverse proxy
+* [haproxy](https://github.com/haproxy-unofficial-obsolete-mirrors/haproxy) Unoffical fork of haproxy development repository
+* [toxiproxy](https://github.com/Shopify/toxiproxy) A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+* [openresty](https://github.com/openresty/openresty) Turning Nginx into a Full-Fledged Scriptable Web Platform
+* [kong](https://github.com/Kong/kong) The Microservice API Gateway
+* [kcptun](https://github.com/xtaci/kcptun) A Fast & Secure Tunnel Based On KCP with N:M Multiplexing
+* [nginx-resource](https://github.com/fcambus/nginx-resources) A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine
+* [twemproxy](https://github.com/twitter/twemproxy) A fast, light-weight proxy for memcached and redis
+* [tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features
+* [traefik](https://github.com/containous/traefik) Træfik, a modern reverse proxy
 
 **devops**
 
@@ -143,6 +143,7 @@ configure applications across dynamic, distributed infrastructure
 * [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 
 **team**
+
 * [phabricator](https://github.com/phacility/phabricator) Open software engineering platform and fun adventure game
 
 **awesome**
