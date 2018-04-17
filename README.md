@@ -31,6 +31,7 @@ Repository | Description
 * [ResumeSample](https://github.com/geekcompany/ResumeSample) Resume template for Chinese programmers
 * [interview_python](https://github.com/taizilongxu/interview_python) interview for python
 * [node-interview](https://github.com/ElemeFE/node-interview) How to pass the Node.js interview of ElemeFE.
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2018
 
 
 **distributed systems**
@@ -46,6 +47,9 @@ Repository | Description
 * [node](https://github.com/nodejs/node) Node.js JavaScript runtime 
 * [framework](https://github.com/totaljs/framework)  Total.js framework is a framework for Node.js platfrom written in `pure` JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application.
 * [nodeclub](https://github.com/cnodejs/nodeclub) Node [http://cnodejs.org/](http://cnodejs.org/)
+* [electron](https://github.com/electron/electron) Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [express](https://github.com/expressjs/express) Fast, unopinionated, minimalist web framework for node.
+
 
 **java**
 
@@ -56,21 +60,29 @@ Repository | Description
 * [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java
 * [zookeeper](https://github.com/apache/zookeeper) Apache ZooKeeper
 * [hadoop](https://github.com/apache/hadoop) Mirror of Apache Hadoop
+* [EventBus](https://github.com/greenrobot/EventBus) Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
+* [guava](https://github.com/google/guava) Google core libraries for Java
 
 **python**
 
 * [scrapy](https://github.com/scrapy/scrapy) Scrapy, a fast high-level web crawling & scraping framework for Python
 * [tornado](https://github.com/tornadoweb/tornado) Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+* [pandas](https://github.com/pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions
+* [pytdata-book](https://github.com/wesm/pydata-book) Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+* [python-scraping](https://github.com/REMitchell/python-scraping) Code samples from the book Web Scraping with Python 
 
 **Golang**
 
 * [echo](https://github.com/labstack/echo) High performance, minimalist Go web framework
 * [gophernotes](https://github.com/gopherdata/gophernotes) The Go kernel for Jupyter notebooks and nteract.
+* [hystrix-go](https://github.com/afex/hystrix-go) Netflix's Hystrix latency and fault tolerance library, for Go
+* [fasthttp](https://github.com/valyala/fasthttp) Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+
 
 **mysql**
 
 * [Oceanus](https://github.com/58code/Oceanus) 58 mysql-proxy by jdbc
-[kingshard](https://github.com/flike/kingshard) kingshard is a high-performance proxy for MySQL powered by Go
+* [kingshard](https://github.com/flike/kingshard) kingshard is a high-performance proxy for MySQL powered by Go
 * [Mycat-Server](https://github.com/MyCATApache/Mycat-Server) MyCAT is an Open-Source software, “a large database cluster” oriented to enterprises. MyCAT is an enforced database which is a replacement for MySQL and supports transaction and ACID
 * [vitess](https://github.com/vitessio/vitess) Vitess is a database clustering system for horizontal scaling of MySQL
 * [Mha](https://github.com/yoshinorim/mha4mysql-node) Development tree of Master High Availability Manager and tools for MySQL (MHA), Node (MySQL Server) part
@@ -80,6 +92,8 @@ Repository | Description
 * [DBproxy](https://github.com/Meituan-Dianping/DBProxy) Meituan Mysql proxy
 * [orchestrator](https://github.com/github/orchestrator) MySQL replication topology management and HA
 * [otter](https://github.com/alibaba/otter) alibaba mysql sync
+* [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. http://mysqltuner.com
+* [mixer](https://github.com/siddontang/mixer) a MySQL proxy powered by Go
 
 **proxy**
 
@@ -118,6 +132,19 @@ configure applications across dynamic, distributed infrastructure
 * [rocksdb](https://github.com/facebook/rocksdb) A library that provides an embeddable, persistent key-value store for fast storage
 * [seafile](https://github.com/haiwen/seafile) File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance.
 * [cockroach](https://github.com/cockroachdb/cockroach) CockroachDB - the open source, cloud-native SQL database
+* [beansdb](https://github.com/douban/beansdb) Yet another distributed key-value storage system from Douban Inc.
+* [SequoiaDB](https://github.com/SequoiaDB/SequoiaDB) SequoiaDB is a document-oriented NoSQL Database 
+* [bigcache](https://github.com/allegro/bigcache) Efficient cache for gigabytes of data written in Go
+* [torus](https://github.com/coreos/torus) Torus Distributed Storage
+* [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) annotated Redis 3.0 source code
+* 
+ 
+**container**
+
+* [kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management http://kubernetes.io
+* [drone](https://github.com/drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go https://drone.io
+
+
  
 **linux**
 
@@ -127,7 +154,9 @@ configure applications across dynamic, distributed infrastructure
 
 **machine-learning**
 
-* [tensorflow](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for Beginners with Latest APIs
+* [tensorflow-example](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for Beginners with Latest APIs
+* [tensorflow](https://github.com/tensorflow/tensorflow) Computation using data flow graphs for scalable machine learning https://tensorflow.org
+* [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) chinses for tensorflow
 
 **front**
 
@@ -135,6 +164,11 @@ configure applications across dynamic, distributed infrastructure
 * [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [hexo](https://github.com/hexojs/hexo) A fast, simple & powerful blog framework, powered by Node.js
 * [element](https://github.com/ElemeFE/element) A Vue.js 2.0 UI Toolkit for Web
+* [jquery-ui-bootstrap](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) A jQuery UI theme based on Twitter Bootstrap
+* [Flat-UI](https://github.com/designmodo/Flat-UI)  Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of website
+* [javascript](https://github.com/airbnb/javascript) JavaScript Style Guide
+* [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets
+* [d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML.
 
 
 **monitor**
@@ -155,6 +189,8 @@ configure applications across dynamic, distributed infrastructure
 * [awesome](https://github.com/sindresorhus/awesome) Curated list of awesome lists
 * [awesome-go](https://github.com/avelino/awesome-go) A curated list of awesome Go frameworks, libraries and software
 * [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* [awesome-go-storage](https://github.com/gostor/awesome-go-storage) A curated list of awesome Go storage projects and libraries
 
 
 **other**
@@ -166,4 +202,8 @@ configure applications across dynamic, distributed infrastructure
 * [500lines-cn](https://github.com/HT524/500LineorLess_CN) 500 lines for cn
 * [datat-sciencemaster](https://github.com/datasciencemasters/go) The Open Source Data Science Masters
 * [HelloGithub](https://github.com/521xueweihan/HelloGitHub) collect some interesting 
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books) Freely available programming books
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) Papers from the computer science community to read and discuss
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+A list of cool features of Git and GitHub.
 
