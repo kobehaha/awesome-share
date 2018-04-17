@@ -150,7 +150,7 @@ configure applications across dynamic, distributed infrastructure
 
 * [linux](https://github.com/torvalds/linux) linux kernel source 
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) some linux tutorial
-* [https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
+* [Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
 
 **machine-learning**
 
