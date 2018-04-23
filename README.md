@@ -3,8 +3,22 @@
 
 *share some technology from github repositories  started or blog*
 
+
 Repository | Description
 --- | ---
+
+
+**interview**
+
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.Goole 
+* [interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
+* [ResumeSample](https://github.com/geekcompany/ResumeSample) Resume template for Chinese programmers
+* [interview_python](https://github.com/taizilongxu/interview_python) interview for python
+* [node-interview](https://github.com/ElemeFE/node-interview) How to pass the Node.js interview of ElemeFE.
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2018
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) Some useful websites for programmers.
+
+
 
 **algorithms | datastruct**
 
@@ -18,35 +32,14 @@ Repository | Description
 * [algorithms](https://github.com/0xAX/go-algorithms) Algorithms and data structures for golang
 * [Algorithms](https://github.com/pedrovgs/Algorithms) Solutions for some common algorithm problems written in Java.
 * [bree](https://github.com/google/btree)  BTree implementation for Go
+* [100days](https://github.com/coells/100days) 100 days of algorithms
 
+------
 
-**MQ**
+**c/c++**
 
-* [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform
-* [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
-* [rocketmq](https://github.com/apache/rocketmq) Mirror of Apache RocketMQ
-
-**interview**
-
-* [coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer.Goole 
-* [interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
-* [ResumeSample](https://github.com/geekcompany/ResumeSample) Resume template for Chinese programmers
-* [interview_python](https://github.com/taizilongxu/interview_python) interview for python
-* [node-interview](https://github.com/ElemeFE/node-interview) How to pass the Node.js interview of ElemeFE.
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2018
-
-
-**distributed systems**
-
-* [raft](https://github.com/hashicorp/raft) Golang implementation of the Raft consensus protocol
-* [raft](https://github.com/goraft/raft) UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol.
-* [paxos](https://github.com/cocagne/paxos) Plain Paxos Implementations in Python & Java
-* [distributed-system](https://github.com/zhenlohuang/awesome-distributed-systems) A curated list of awesome distributed systems books, papers, resources and shiny things.
-* [builddatabase](https://github.com/ngaut/builddatabase) Build a distributed SQL database from the ground up
-* [N-blog](https://github.com/nswbmw/N-blog) learning node.js
-* [connect](https://github.com/senchalabs/connect) Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
-* [async](https://github.com/caolan/async) Async utilities for node and the browser
-* [eventproxy](https://github.com/JacksonTian/eventproxy) An implementation of task/event based asynchronous pattern. 
+* [flatbuffers](https://github.com/google/flatbuffers) Memory Efficient Serialization Library 
+* [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) 500 line for httpd
 
 **node.js**
 
@@ -57,6 +50,7 @@ Repository | Description
 * [express](https://github.com/expressjs/express) Fast, unopinionated, minimalist web framework for node.
 * [node-elm](https://github.com/bailicangdu/node-elm) system build by node.js + mongdb
 * [kue](https://github.com/Automattic/kue) Kue is a priority job queue backed by redis, built for node.js.
+* [koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions 
 
 
 **java**
@@ -70,6 +64,8 @@ Repository | Description
 * [hadoop](https://github.com/apache/hadoop) Mirror of Apache Hadoop
 * [EventBus](https://github.com/greenrobot/EventBus) Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [guava](https://github.com/google/guava) Google core libraries for Java
+* [shiro](https://github.com/apache/shiro) Mirror of Apache Shiro
+
 
 
 **python**
@@ -89,8 +85,37 @@ Repository | Description
 * [hystrix-go](https://github.com/afex/hystrix-go) Netflix's Hystrix latency and fault tolerance library, for Go
 * [fasthttp](https://github.com/valyala/fasthttp) Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * [grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC
+* [beego](https://github.com/astaxie/beego) beego is an open-source, high-performance web framework for the Go programming language
+* [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) A golang ebook intro how to build a web with golang
+* [go-best-practice](https://github.com/astaxie/go-best-practice) Trying to complete over 100 projects in various categories in golang
+* [goquic](https://github.com/devsisters/goquic) QUIC support for Go http://devsisters.github.io/goquic/
+* [cli](https://github.com/urfave/cli) A simple, fast, and fun package for building command line apps in Go
+
+**front**
+
+* [bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
+* [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [hexo](https://github.com/hexojs/hexo) A fast, simple & powerful blog framework, powered by Node.js
+* [element](https://github.com/ElemeFE/element) A Vue.js 2.0 UI Toolkit for Web
+* [jquery-ui-bootstrap](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) A jQuery UI theme based on Twitter Bootstrap
+* [Flat-UI](https://github.com/designmodo/Flat-UI)  Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of website
+* [javascript](https://github.com/airbnb/javascript) JavaScript Style Guide
+* [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets
+* [d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML.
+* [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+* [c3](https://github.com/c3js/c3) A D3-based reusable chart library http://c3js.org
 
 
+------
+
+**MQ**
+
+* [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform
+* [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
+* [rocketmq](https://github.com/apache/rocketmq) Mirror of Apache RocketMQ
+
+
+ 
 **mysql**
 
 * [Oceanus](https://github.com/58code/Oceanus) 58 mysql-proxy by jdbc
@@ -107,6 +132,7 @@ Repository | Description
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. http://mysqltuner.com
 * [mixer](https://github.com/siddontang/mixer) a MySQL proxy powered by Go
 * [facebook-mysql-5.6](https://github.com/facebook/mysql-5.6) Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
+* [phxsql](https://github.com/Tencent/phxsql) A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 
 **proxy**
 
@@ -120,13 +146,22 @@ Repository | Description
 * [tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features
 * [traefik](https://github.com/containous/traefik) Træfik, a modern reverse proxy
 * [reading-code-of-nginx](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) reading of nginx for chinese
+* [nginx](https://github.com/nginx/nginx) nginx-resource
+* [kcp](https://github.com/skywind3000/kcp) KCP - A Fast and Reliable ARQ Protocol
 
-**devops**
 
-* [jumpserver](https://github.com/jumpserver/jumpserver)  jumpserver 
-* [kjyw](https://github.com/aqzt/kjyw) some operation tools
-* [ansible](https://github.com/ansible/ansible) Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
-* [openstack](https://github.com/openstack/openstack) Repository containing OpenStack repositories
+**distributed systems**
+
+* [raft](https://github.com/hashicorp/raft) Golang implementation of the Raft consensus protocol
+* [raft](https://github.com/goraft/raft) UNMAINTAINED: A Go implementation of the Raft distributed consensus protocol.
+* [paxos](https://github.com/cocagne/paxos) Plain Paxos Implementations in Python & Java
+* [distributed-system](https://github.com/zhenlohuang/awesome-distributed-systems) A curated list of awesome distributed systems books, papers, resources and shiny things.
+* [builddatabase](https://github.com/ngaut/builddatabase) Build a distributed SQL database from the ground up
+* [N-blog](https://github.com/nswbmw/N-blog) learning node.js
+* [connect](https://github.com/senchalabs/connect) Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
+* [async](https://github.com/caolan/async) Async utilities for node and the browser
+* [eventproxy](https://github.com/JacksonTian/eventproxy) An implementation of task/event based asynchronous pattern. 
+
 
 **file-system | databases**
 
@@ -153,6 +188,11 @@ configure applications across dynamic, distributed infrastructure
 * [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) annotated Redis 3.0 source code
 * [memcached](https://github.com/memcached/memcached) memcached development tree
 * [tikv](https://github.com/pingcap/tikv) Distributed transactional key value database powered by Rust and Raft
+* [neo4j](https://github.com/neo4j/neo4j) Graphs for Everyone
+* [JDBM3](https://github.com/jankotek/JDBM3) Embedded Key Value Java Database
+* [oceanbase](https://github.com/alibaba/oceanbase) A distributed, shared-nothing relational database
+* [tfs](https://github.com/alibaba/tfs) TFS (Taobao File System) is a distributed file system similar to GFS
+
  
 **container**
 
@@ -160,13 +200,26 @@ configure applications across dynamic, distributed infrastructure
 * [drone](https://github.com/drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go https://drone.io
 
 
- 
+------
+
 **linux**
 
 * [linux](https://github.com/torvalds/linux) linux kernel source 
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) some linux tutorial
 * [Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
 * [Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) Chinese for libuv
+
+
+**devops**
+
+* [jumpserver](https://github.com/jumpserver/jumpserver)  jumpserver 
+* [kjyw](https://github.com/aqzt/kjyw) some operation tools
+* [ansible](https://github.com/ansible/ansible) Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
+* [openstack](https://github.com/openstack/openstack) Repository containing OpenStack repositories
+* [salt-stack](https://github.com/saltstack/salt) Software to automate the management and configuration of any infrastructure or application at scale
+* [jenkins](https://github.com/jenkinsci/jenkins) Jenkins automation server 
+
+
 
 **machine-learning**
 
@@ -176,19 +229,7 @@ configure applications across dynamic, distributed infrastructure
 * [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning
 * [data-science](https://github.com/donnemartin/data-science-ipython-notebooks) Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks
-
-**front**
-
-* [bootstrap](https://github.com/twbs/bootstrap) The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
-* [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-* [hexo](https://github.com/hexojs/hexo) A fast, simple & powerful blog framework, powered by Node.js
-* [element](https://github.com/ElemeFE/element) A Vue.js 2.0 UI Toolkit for Web
-* [jquery-ui-bootstrap](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) A jQuery UI theme based on Twitter Bootstrap
-* [Flat-UI](https://github.com/designmodo/Flat-UI)  Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of website
-* [javascript](https://github.com/airbnb/javascript) JavaScript Style Guide
-* [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets
-* [d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML.
-* [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+* [deeplerningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation
 
 
 **monitor**
@@ -197,9 +238,6 @@ configure applications across dynamic, distributed infrastructure
 * [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 * [prometheus](https://github.com/prometheus/prometheus) The Prometheus monitoring system and time series database
 
-**team**
-
-* [phabricator](https://github.com/phacility/phabricator) Open software engineering platform and fun adventure game
 
 **awesome**
 
@@ -212,7 +250,20 @@ configure applications across dynamic, distributed infrastructure
 * [awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [awesome-go-storage](https://github.com/gostor/awesome-go-storage) A curated list of awesome Go storage projects and libraries
+* [awesone-miscroservices](https://github.com/mfornos/awesome-microservices) A curated list of Microservice Architecture related principles and technologies.
 
+
+**team**
+
+* [phabricator](https://github.com/phacility/phabricator) Open software engineering platform and fun adventure game
+ 
+**tool**
+
+* [vagrant](https://github.com/hashicorp/vagrant) Vagrant is a tool for building and distributing development environments
+* [musicbox](https://github.com/darknessomi/musicbox) client music box
+* [atom](https://github.com/atom/atom) The hackable text editor 
+
+----
 
 **other**
 
@@ -227,4 +278,3 @@ configure applications across dynamic, distributed infrastructure
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) Papers from the computer science community to read and discuss
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 A list of cool features of Git and GitHub.
-
