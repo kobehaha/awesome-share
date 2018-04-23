@@ -23,6 +23,8 @@ Repository | Description
 **MQ**
 
 * [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform
+* [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
+* [rocketmq](https://github.com/apache/rocketmq) Mirror of Apache RocketMQ
 
 **interview**
 
@@ -41,6 +43,10 @@ Repository | Description
 * [paxos](https://github.com/cocagne/paxos) Plain Paxos Implementations in Python & Java
 * [distributed-system](https://github.com/zhenlohuang/awesome-distributed-systems) A curated list of awesome distributed systems books, papers, resources and shiny things.
 * [builddatabase](https://github.com/ngaut/builddatabase) Build a distributed SQL database from the ground up
+* [N-blog](https://github.com/nswbmw/N-blog) learning node.js
+* [connect](https://github.com/senchalabs/connect) Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
+* [async](https://github.com/caolan/async) Async utilities for node and the browser
+* [eventproxy](https://github.com/JacksonTian/eventproxy) An implementation of task/event based asynchronous pattern. 
 
 **node.js**
 
@@ -49,6 +55,8 @@ Repository | Description
 * [nodeclub](https://github.com/cnodejs/nodeclub) Node [http://cnodejs.org/](http://cnodejs.org/)
 * [electron](https://github.com/electron/electron) Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [express](https://github.com/expressjs/express) Fast, unopinionated, minimalist web framework for node.
+* [node-elm](https://github.com/bailicangdu/node-elm) system build by node.js + mongdb
+* [kue](https://github.com/Automattic/kue) Kue is a priority job queue backed by redis, built for node.js.
 
 
 **java**
@@ -63,6 +71,7 @@ Repository | Description
 * [EventBus](https://github.com/greenrobot/EventBus) Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [guava](https://github.com/google/guava) Google core libraries for Java
 
+
 **python**
 
 * [scrapy](https://github.com/scrapy/scrapy) Scrapy, a fast high-level web crawling & scraping framework for Python
@@ -70,13 +79,16 @@ Repository | Description
 * [pandas](https://github.com/pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions
 * [pytdata-book](https://github.com/wesm/pydata-book) Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 * [python-scraping](https://github.com/REMitchell/python-scraping) Code samples from the book Web Scraping with Python 
+* [ipython](https://github.com/ipython/ipython) Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+  
 
-**Golang**
+**go**
 
 * [echo](https://github.com/labstack/echo) High performance, minimalist Go web framework
 * [gophernotes](https://github.com/gopherdata/gophernotes) The Go kernel for Jupyter notebooks and nteract.
 * [hystrix-go](https://github.com/afex/hystrix-go) Netflix's Hystrix latency and fault tolerance library, for Go
 * [fasthttp](https://github.com/valyala/fasthttp) Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* [grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC
 
 
 **mysql**
@@ -94,6 +106,7 @@ Repository | Description
 * [otter](https://github.com/alibaba/otter) alibaba mysql sync
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. http://mysqltuner.com
 * [mixer](https://github.com/siddontang/mixer) a MySQL proxy powered by Go
+* [facebook-mysql-5.6](https://github.com/facebook/mysql-5.6) Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
 
 **proxy**
 
@@ -106,6 +119,7 @@ Repository | Description
 * [twemproxy](https://github.com/twitter/twemproxy) A fast, light-weight proxy for memcached and redis
 * [tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features
 * [traefik](https://github.com/containous/traefik) Træfik, a modern reverse proxy
+* [reading-code-of-nginx](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) reading of nginx for chinese
 
 **devops**
 
@@ -114,7 +128,7 @@ Repository | Description
 * [ansible](https://github.com/ansible/ansible) Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy
 * [openstack](https://github.com/openstack/openstack) Repository containing OpenStack repositories
 
-**File-system | databases**
+**file-system | databases**
 
 * [bfs](https://github.com/baidu/bfs) The Baidu File System.
 * [go-memdb](https://github.com/hashicorp/go-memdb) Golang in-memory database built on immutable radix trees
@@ -137,7 +151,8 @@ configure applications across dynamic, distributed infrastructure
 * [bigcache](https://github.com/allegro/bigcache) Efficient cache for gigabytes of data written in Go
 * [torus](https://github.com/coreos/torus) Torus Distributed Storage
 * [redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated) annotated Redis 3.0 source code
-* 
+* [memcached](https://github.com/memcached/memcached) memcached development tree
+* [tikv](https://github.com/pingcap/tikv) Distributed transactional key value database powered by Rust and Raft
  
 **container**
 
@@ -151,12 +166,16 @@ configure applications across dynamic, distributed infrastructure
 * [linux](https://github.com/torvalds/linux) linux kernel source 
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) some linux tutorial
 * [Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
+* [Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) Chinese for libuv
 
 **machine-learning**
 
 * [tensorflow-example](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for Beginners with Latest APIs
 * [tensorflow](https://github.com/tensorflow/tensorflow) Computation using data flow graphs for scalable machine learning https://tensorflow.org
 * [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) chinses for tensorflow
+* [caffe](https://github.com/BVLC/caffe) Caffe: a fast open framework for deep learning
+* [data-science](https://github.com/donnemartin/data-science-ipython-notebooks) Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
+* [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks
 
 **front**
 
@@ -169,12 +188,14 @@ configure applications across dynamic, distributed infrastructure
 * [javascript](https://github.com/airbnb/javascript) JavaScript Style Guide
 * [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends. Packs many modules into a few bundled assets
 * [d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML.
+* [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 
 
 **monitor**
 
 * [grafana](https://github.com/grafana/grafana) The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 * [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
+* [prometheus](https://github.com/prometheus/prometheus) The Prometheus monitoring system and time series database
 
 **team**
 
