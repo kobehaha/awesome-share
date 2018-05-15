@@ -17,6 +17,10 @@ Repository | Description
 * [node-interview](https://github.com/ElemeFE/node-interview) How to pass the Node.js interview of ElemeFE.
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2018
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) Some useful websites for programmers.
+* [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
+* [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute!
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) Algorithms study materials, behavioral content and tips for rocking your coding interview
+
 
 
 
@@ -33,6 +37,8 @@ Repository | Description
 * [Algorithms](https://github.com/pedrovgs/Algorithms) Solutions for some common algorithm problems written in Java.
 * [bree](https://github.com/google/btree)  BTree implementation for Go
 * [100days](https://github.com/coells/100days) 100 days of algorithms
+* [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) Algorithm Visualizer http://algo-visualizer.jasonpark.me
+* [awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) LeetCode of algorithms with java solution(updating)
 
 ------
 
@@ -40,6 +46,12 @@ Repository | Description
 
 * [flatbuffers](https://github.com/google/flatbuffers) Memory Efficient Serialization Library 
 * [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) 500 line for httpd
+* [UDPspeeder](https://github.com/wangyu-/UDPspeeder) A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics
+* [soft-pbrpc](https://github.com/baidu/sofa-pbrpc) A light-weight RPC implement of google protobuf RPC framework
+* [dpvs](https://github.com/iqiyi/dpvs) DPVS is a high performance Layer-4 load balancer based on DPDK
+* [libevent](https://github.com/libevent/libevent) A public libevent repository. The official repository is at https://github.com/libevent/libevent http://libevent.org
+* [v8](https://github.com/v8/v8) The official mirror of the V8 Git repository https://chromium.googlesource.com/v8/…
+* [http-parser](https://github.com/nodejs/http-parser) http request/response parser for c
 
 **node.js**
 
@@ -51,6 +63,7 @@ Repository | Description
 * [node-elm](https://github.com/bailicangdu/node-elm) system build by node.js + mongdb
 * [kue](https://github.com/Automattic/kue) Kue is a priority job queue backed by redis, built for node.js.
 * [koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions 
+* [pomelo](https://github.com/NetEase/pomelo) A fast,scalable,distributed game server framework for Node.js
 
 
 **java**
@@ -65,6 +78,12 @@ Repository | Description
 * [EventBus](https://github.com/greenrobot/EventBus) Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality
 * [guava](https://github.com/google/guava) Google core libraries for Java
 * [shiro](https://github.com/apache/shiro) Mirror of Apache Shiro
+* [metrics](https://github.com/dropwizard/metrics) Capturing JVM- and application-level metrics. So you know what's going on. https://metrics.dropwizard.io
+* [incubator-dubbo](https://github.com/apache/incubator-dubbo) 
+Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
+* [undertow](https://github.com/undertow-io/undertow) High performance non-blocking webserver http://undertow.io
+* [blade](https://github.com/lets-blade/blade) Lightning fast and elegant mvc framework for Java8 https://lets-blade.com
+* [tcc-transaction](https://github.com/changmingxie/tcc-transaction) tcc-transaction for java
 
 
 
@@ -90,6 +109,14 @@ Repository | Description
 * [go-best-practice](https://github.com/astaxie/go-best-practice) Trying to complete over 100 projects in various categories in golang
 * [goquic](https://github.com/devsisters/goquic) QUIC support for Go http://devsisters.github.io/goquic/
 * [cli](https://github.com/urfave/cli) A simple, fast, and fun package for building command line apps in Go
+* [goworld](https://github.com/xiaonanln/goworld) Scalable Distributed Game Server Engine with Hot Swapping in Golang
+* [uuid](https://github.com/satori/go.uuid) UUID package for Go
+* [riot](https://github.com/go-ego/riot) Go Open Source, Distributed, Simple and efficient Search Engine
+* [micro](https://github.com/micro/micro)  cloud-native toolkit for building future-proof systems https://micro.mu
+* [go-micro](https://github.com/micro/go-micro) A pluggable RPC framework https://micro.mu
+* [confd](https://github.com/kelseyhightower/confd) Manage local application configuration files using templates and data from etcd or consul
+* [evio](https://github.com/tidwall/evio) Fast event-loop networking for Go
+
 
 **front**
 
@@ -104,6 +131,7 @@ Repository | Description
 * [d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML.
 * [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 * [c3](https://github.com/c3js/c3) A D3-based reusable chart library http://c3js.org
+* [ant-design-pro](https://github.com/ant-design/ant-design-pro)  Use Ant Design like a Pro
 
 
 ------
@@ -113,6 +141,8 @@ Repository | Description
 * [nsq](https://github.com/nsqio/nsq) A realtime distributed messaging platform
 * [rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) Open source multi-protocol messaging broker 
 * [rocketmq](https://github.com/apache/rocketmq) Mirror of Apache RocketMQ
+* [kiteq](https://github.com/blackbeans/kiteq) kiteq is a distributed mq framework
+* [phxqueue](https://github.com/Tencent/phxqueue) A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm
 
 
  
@@ -133,6 +163,11 @@ Repository | Description
 * [mixer](https://github.com/siddontang/mixer) a MySQL proxy powered by Go
 * [facebook-mysql-5.6](https://github.com/facebook/mysql-5.6) Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
 * [phxsql](https://github.com/Tencent/phxsql) A high availability MySQL cluster that guarantees data consistency between a master and slaves.
+* [tech](https://github.com/hedengcheng/tech) programming, database, distributed system
+* [awesome-mysql-cn](https://github.com/jobbole/awesome-mysql-cn) mysql tools
+* [python-mysql-replication](https://github.com/noplay/python-mysql-replication) Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
+* [orchestrator](https://github.com/outbrain/orchestrator) MySQL replication topology manager/visualizer
+* [AliSQL](https://github.com/alibaba/AliSQL) liSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 
 **proxy**
 
@@ -161,6 +196,8 @@ Repository | Description
 * [connect](https://github.com/senchalabs/connect) Connect is an extensible HTTP server framework for node using "plugins" known as middleware.
 * [async](https://github.com/caolan/async) Async utilities for node and the browser
 * [eventproxy](https://github.com/JacksonTian/eventproxy) An implementation of task/event based asynchronous pattern. 
+* [raft-zh_cn](https://github.com/maemual/raft-zh_cn) raft for zh_cn
+* [raft-boltdb](https://github.com/hashicorp/raft-boltdb) Raft backend implementation using BoltDB
 
 
 **file-system | databases**
@@ -192,12 +229,19 @@ configure applications across dynamic, distributed infrastructure
 * [JDBM3](https://github.com/jankotek/JDBM3) Embedded Key Value Java Database
 * [oceanbase](https://github.com/alibaba/oceanbase) A distributed, shared-nothing relational database
 * [tfs](https://github.com/alibaba/tfs) TFS (Taobao File System) is a distributed file system similar to GFS
+* [cayley](https://github.com/cayleygraph/cayley) An open-source graph database
+* [pegasus](https://github.com/XiaoMi/pegasus) A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team
+* [db_tutorial](https://github.com/cstack/db_tutorial/) Writing a sqlite clone from scratch in C https://cstack.github.io/db_tutorial
+* [buntdb](https://github.com/tidwall/buntdb) BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
 
  
 **container**
 
 * [kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management http://kubernetes.io
 * [drone](https://github.com/drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go https://drone.io
+* [portainer](https://github.com/portainer/portainer) Simple management UI for Docker http://portainer.io
+* [swarm](https://github.com/docker/swarm) Swarm: a Docker-native clustering system
+* [faas](https://github.com/openfaas/faas) OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes 
 
 
 ------
@@ -208,6 +252,7 @@ configure applications across dynamic, distributed infrastructure
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) some linux tutorial
 * [Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
 * [Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) Chinese for libuv
+
 
 
 **devops**
@@ -237,6 +282,7 @@ configure applications across dynamic, distributed infrastructure
 * [grafana](https://github.com/grafana/grafana) The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 * [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 * [prometheus](https://github.com/prometheus/prometheus) The Prometheus monitoring system and time series database
+* [falcon-plus](https://github.com/open-falcon/falcon-plus) An open-source and enterprise-level monitoring system. http://open-falcon.org
 
 
 **awesome**
@@ -251,6 +297,8 @@ configure applications across dynamic, distributed infrastructure
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 * [awesome-go-storage](https://github.com/gostor/awesome-go-storage) A curated list of awesome Go storage projects and libraries
 * [awesone-miscroservices](https://github.com/mfornos/awesome-microservices) A curated list of Microservice Architecture related principles and technologies.
+* [awesome-sre](https://github.com/dastergon/awesome-sre) A curated list of awesome Site Reliability and Production Engineering resources
+* [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) awesome-python-cn 
 
 
 **team**
