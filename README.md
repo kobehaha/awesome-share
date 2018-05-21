@@ -20,6 +20,7 @@ Repository | Description
 * [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) A collection of (mostly) technical things every software developer should know
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute!
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) Algorithms study materials, behavioral content and tips for rocking your coding interview
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 
 
@@ -52,6 +53,7 @@ Repository | Description
 * [libevent](https://github.com/libevent/libevent) A public libevent repository. The official repository is at https://github.com/libevent/libevent http://libevent.org
 * [v8](https://github.com/v8/v8) The official mirror of the V8 Git repository https://chromium.googlesource.com/v8/…
 * [http-parser](https://github.com/nodejs/http-parser) http request/response parser for c
+* [LVS](https://github.com/alibaba/LVS) A distribution of Linux Virtual Server with some advanced features. It introduces a new packet forwarding method - FULLNAT other than NAT/Tunneling/DirectRouting, and defense mechanism against synflooding attack - SYNPROXY.
 
 **node.js**
 
@@ -64,6 +66,13 @@ Repository | Description
 * [kue](https://github.com/Automattic/kue) Kue is a priority job queue backed by redis, built for node.js.
 * [koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions 
 * [pomelo](https://github.com/NetEase/pomelo) A fast,scalable,distributed game server framework for Node.js
+* [project-guidlines](https://github.com/elsewhencode/project-guidelines) A set of best practices for JavaScript projects
+* [jetst](https://github.com/facebook/jest) Delightful javascript testing
+* [mocha](https://github.com/mochajs/mocha) simple,flexible,fun javascript test framework for node.js 
+* [lowdb](https://github.com/typicode/lowdb) lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)
+* [node-in-debugging](https://github.com/nswbmw/node-in-debugging) Node in debugging
+* [mysll](https://github.com/mysqljs/mysql) A pure node.js JavaScript Client implementing the MySql protocol.
+
 
 
 **java**
@@ -84,6 +93,13 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [undertow](https://github.com/undertow-io/undertow) High performance non-blocking webserver http://undertow.io
 * [blade](https://github.com/lets-blade/blade) Lightning fast and elegant mvc framework for Java8 https://lets-blade.com
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) tcc-transaction for java
+* [p3c](https://github.com/alibaba/p3c) Alibaba Java Coding Guidelines pmd implements and IDE plugin https://github.com/alibaba/p3c/wiki
+* [netty-socketio](https://github.com/mrniko/netty-socketio) socket.IO server implemented on Java.Realtime java framework
+* [redisson](https://github.com/redisson/redisson) Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server
+* [proxyee-down](https://github.com/monkeyWie/proxyee-down) http downloader helper
+* [motan](https://github.com/weibocom/motan) A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
+* [zipkin](https://github.com/openzipkin/zipkin) Zipkin is a distributed tracing system
+* [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) bilibili android danmakuflame  
 
 
 
@@ -95,6 +111,10 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [pytdata-book](https://github.com/wesm/pydata-book) Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 * [python-scraping](https://github.com/REMitchell/python-scraping) Code samples from the book Web Scraping with Python 
 * [ipython](https://github.com/ipython/ipython) Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+* [pydata-notebook](https://github.com/BrambleXu/pydata-notebook) python analizy for python
+* [flask](https://github.com/pallets/flask) he Python micro framework for building web applications. 
+* [pipenv](https://github.com/pypa/pipenv) Python Development Workflow for Humans. 
+* [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts Plotting Library 
   
 
 **go**
@@ -116,6 +136,18 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [go-micro](https://github.com/micro/go-micro) A pluggable RPC framework https://micro.mu
 * [confd](https://github.com/kelseyhightower/confd) Manage local application configuration files using templates and data from etcd or consul
 * [evio](https://github.com/tidwall/evio) Fast event-loop networking for Go
+* [jaeger](https://github.com/jaegertracing/jaeger) CNCF Jaeger, a Distributed Tracing System https://jaegertracing.io/
+* [mux](https://github.com/gorilla/mux) A powerful URL router and dispatcher for golang
+* [coredns](https://github.com/coredns/coredns) CoreDNS is a DNS server that chains plugins
+* [viper](https://github.com/spf13/viper) Go configuration with fangs
+* [go-perfbook](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization
+* [casbin](https://github.com/casbin/casbin) An authorization library that supports access control models like ACL, RBAC, ABAC in Golang 
+* [lightsocks](https://github.com/gwuhaolin/lightsocks) Light socks
+* [dep](https://github.com/golang/dep) Go dependency management tool
+* [xid](https://github.com/rs/xid) Xid is a globally unique id generator thought for the web
+* [qtunnel](https://github.com/getqujing/qtunnel) A secure socket tunnel works on getqujing.com
+* [logrus](https://github.com/sirupsen/logrus) Structured, pluggable logging for Go
+* [govendor](https://github.com/kardianos/govendor) Go vendor tool that works with the standard vendor file.
 
 
 **front**
@@ -132,6 +164,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 * [c3](https://github.com/c3js/c3) A D3-based reusable chart library http://c3js.org
 * [ant-design-pro](https://github.com/ant-design/ant-design-pro)  Use Ant Design like a Pro
+* [vue2-elm](https://github.com/bailicangdu/vue2-elm) vue2 + vuex build a simple pages 
+* [vue2-manage](https://github.com/bailicangdu/vue2-manage) vue + element-ui admin system
 
 
 ------
@@ -143,7 +177,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [rocketmq](https://github.com/apache/rocketmq) Mirror of Apache RocketMQ
 * [kiteq](https://github.com/blackbeans/kiteq) kiteq is a distributed mq framework
 * [phxqueue](https://github.com/Tencent/phxqueue) A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm
-
+* [mpush](https://github.com/mpusher/mpush) java implementes for push message
+* [fireworq](https://github.com/fireworq/fireworq) Fireworq is a lightweight, high-performance, language-independent job queue system.
 
  
 **mysql**
@@ -168,6 +203,7 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication) Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 * [orchestrator](https://github.com/outbrain/orchestrator) MySQL replication topology manager/visualizer
 * [AliSQL](https://github.com/alibaba/AliSQL) liSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
+* [percona-server](https://github.com/percona/percona-server) Percona Server 
 
 **proxy**
 
@@ -242,7 +278,19 @@ configure applications across dynamic, distributed infrastructure
 * [portainer](https://github.com/portainer/portainer) Simple management UI for Docker http://portainer.io
 * [swarm](https://github.com/docker/swarm) Swarm: a Docker-native clustering system
 * [faas](https://github.com/openfaas/faas) OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes 
+* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) Kubernetes chinese docs
+* [swarm](https://github.com/docker/swarm) Swarm: a Docker-native clustering system
+* [helm](https://github.com/kubernetes/helm) The Kubernetes Package Manager https://helm.sh
+* [kubease](https://github.com/gjmzj/kubeasz) ansible deploy kubernetes
+* [rkt](https://github.com/rkt/rkt) rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+* [faas-netes](https://github.com/openfaas/faas-netes) https://github.com/openfaas/faas-netes
+* [ingress-nginx](https://github.com/kubernetes/ingress-nginx) NGINX Ingress Controller for Kubernetes
+* [charts](https://github.com/kubernetes/charts) Curated applications for Kubernetes
 
+**microservices**
+
+* [microservices](https://github.com/DocsHome/microservices) Microservices from Design to Deployment for  chinese
+* [envoy](https://github.com/envoyproxy/envoy) C++ front/service proxy 
 
 ------
 
@@ -275,6 +323,9 @@ configure applications across dynamic, distributed infrastructure
 * [data-science](https://github.com/donnemartin/data-science-ipython-notebooks) Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines
 * [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks
 * [deeplerningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation
+* [incubator-mxnet](https://github.com/apache/incubator-mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+* [kubeflow](https://github.com/kubeflow/kubeflow) Machine Learning Toolkit for Kubernetes
+* [tnsorflow-docs](https://github.com/xitu/tensorflow-docs) tensorflow-docs for chinese
 
 
 **monitor**
@@ -299,6 +350,10 @@ configure applications across dynamic, distributed infrastructure
 * [awesone-miscroservices](https://github.com/mfornos/awesome-microservices) A curated list of Microservice Architecture related principles and technologies.
 * [awesome-sre](https://github.com/dastergon/awesome-sre) A curated list of awesome Site Reliability and Production Engineering resources
 * [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) awesome-python-cn 
+* [awesome-serverless](https://github.com/anaibol/awesome-serverless) A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources
+* [awesome-react](https://github.com/enaqx/awesome-react) A collection of awesome things regarding React ecosystem.
+* [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) Awesome-blockchain for chinese
 
 
 **team**
@@ -310,6 +365,8 @@ configure applications across dynamic, distributed infrastructure
 * [vagrant](https://github.com/hashicorp/vagrant) Vagrant is a tool for building and distributing development environments
 * [musicbox](https://github.com/darknessomi/musicbox) client music box
 * [atom](https://github.com/atom/atom) The hackable text editor 
+
+
 
 ----
 
@@ -326,3 +383,4 @@ configure applications across dynamic, distributed infrastructure
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) Papers from the computer science community to read and discuss
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 A list of cool features of Git and GitHub.
+* [open-source-team](https://github.com/niezhiyang/open_source_team) china open source team
