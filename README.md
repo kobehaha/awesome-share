@@ -170,7 +170,6 @@ Repository | Description
 * [apidoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator
 
 
-------
 
 **MQ**
 
@@ -181,6 +180,8 @@ Repository | Description
 * [phxqueue](https://github.com/Tencent/phxqueue) A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm
 * [mpush](https://github.com/mpusher/mpush) java implementes for push message
 * [fireworq](https://github.com/fireworq/fireworq) Fireworq is a lightweight, high-performance, language-independent job queue system.
+* [kafka](https://github.com/apache/kafka) Mirror of Apache Kafka
+* [libzmq](https://github.com/zeromq/libzmq) ZeroMQ core engine in C++, implements ZMTP/3.1
 
  
 **mysql**
@@ -311,7 +312,7 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [motan](https://github.com/weibocom/motan) A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 * [go-micro](https://github.com/micro/go-micro) A pluggable RPC framework https://micro.mu
 
-------
+
 
 **linux**
 
@@ -353,13 +354,6 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [pytorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 
-**monitor**
-
-* [grafana](https://github.com/grafana/grafana) The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
-* [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
-* [prometheus](https://github.com/prometheus/prometheus) The Prometheus monitoring system and time series database
-* [falcon-plus](https://github.com/open-falcon/falcon-plus) An open-source and enterprise-level monitoring system. http://open-falcon.org
-
 
 **awesome**
 
@@ -382,15 +376,20 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [architect-awesome](https://github.com/xingshaocheng/architect-awesome) Architect awesome
 
 
-**team**
+**monitor**
 
-* [phabricator](https://github.com/phacility/phabricator) Open software engineering platform and fun adventure game
+* [grafana](https://github.com/grafana/grafana) The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+* [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
+* [prometheus](https://github.com/prometheus/prometheus) The Prometheus monitoring system and time series database
+* [falcon-plus](https://github.com/open-falcon/falcon-plus) An open-source and enterprise-level monitoring system. http://open-falcon.org
+
  
 **tool**
 
 * [vagrant](https://github.com/hashicorp/vagrant) Vagrant is a tool for building and distributing development environments
 * [musicbox](https://github.com/darknessomi/musicbox) client music box
 * [atom](https://github.com/atom/atom) The hackable text editor 
+* [phabricator](https://github.com/phacility/phabricator) Open software engineering platform and fun adventure game
 
 
 
