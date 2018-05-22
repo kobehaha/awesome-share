@@ -21,7 +21,9 @@ Repository | Description
 * [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute!
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) Algorithms study materials, behavioral content and tips for rocking your coding interview
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) free programming books for chinses
+* [Java-Interview](https://github.com/crossoverJie/Java-Interview) Java related : basic, concurrent, algorithm
+* [Interview-Notebook](https://github.com/CyC2018/Interview-Notebook) Interview Notebook 
 
 
 
@@ -48,12 +50,11 @@ Repository | Description
 * [flatbuffers](https://github.com/google/flatbuffers) Memory Efficient Serialization Library 
 * [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) 500 line for httpd
 * [UDPspeeder](https://github.com/wangyu-/UDPspeeder) A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics
-* [soft-pbrpc](https://github.com/baidu/sofa-pbrpc) A light-weight RPC implement of google protobuf RPC framework
 * [dpvs](https://github.com/iqiyi/dpvs) DPVS is a high performance Layer-4 load balancer based on DPDK
 * [libevent](https://github.com/libevent/libevent) A public libevent repository. The official repository is at https://github.com/libevent/libevent http://libevent.org
 * [v8](https://github.com/v8/v8) The official mirror of the V8 Git repository https://chromium.googlesource.com/v8/…
 * [http-parser](https://github.com/nodejs/http-parser) http request/response parser for c
-* [LVS](https://github.com/alibaba/LVS) A distribution of Linux Virtual Server with some advanced features. It introduces a new packet forwarding method - FULLNAT other than NAT/Tunneling/DirectRouting, and defense mechanism against synflooding attack - SYNPROXY.
+* [write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table)  Learn how to write a hash table in C
 
 **node.js**
 
@@ -78,7 +79,6 @@ Repository | Description
 **java**
 
 * [Hystrix](https://github.com/Netflix/Hystrix) Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems
-* [duboox](https://github.com/dangdangdotcom/dubbox) Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework
 * [retrofit](https://github.com/square/retrofit) Type-safe HTTP client for Android and Java by Square, Inc.
 * [gson](https://github.com/google/gson) A Java serialization/deserialization library to convert Java Objects into JSON and back
 * [fastjson](https://github.com/alibaba/fastjson) A fast JSON parser/generator for Java
@@ -88,8 +88,6 @@ Repository | Description
 * [guava](https://github.com/google/guava) Google core libraries for Java
 * [shiro](https://github.com/apache/shiro) Mirror of Apache Shiro
 * [metrics](https://github.com/dropwizard/metrics) Capturing JVM- and application-level metrics. So you know what's going on. https://metrics.dropwizard.io
-* [incubator-dubbo](https://github.com/apache/incubator-dubbo) 
-Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
 * [undertow](https://github.com/undertow-io/undertow) High performance non-blocking webserver http://undertow.io
 * [blade](https://github.com/lets-blade/blade) Lightning fast and elegant mvc framework for Java8 https://lets-blade.com
 * [tcc-transaction](https://github.com/changmingxie/tcc-transaction) tcc-transaction for java
@@ -97,9 +95,9 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [netty-socketio](https://github.com/mrniko/netty-socketio) socket.IO server implemented on Java.Realtime java framework
 * [redisson](https://github.com/redisson/redisson) Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server
 * [proxyee-down](https://github.com/monkeyWie/proxyee-down) http downloader helper
-* [motan](https://github.com/weibocom/motan) A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
 * [zipkin](https://github.com/openzipkin/zipkin) Zipkin is a distributed tracing system
 * [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) bilibili android danmakuflame  
+* [druid](https://github.com/alibaba/druid) alibaba druid
 
 
 
@@ -115,6 +113,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [flask](https://github.com/pallets/flask) he Python micro framework for building web applications. 
 * [pipenv](https://github.com/pypa/pipenv) Python Development Workflow for Humans. 
 * [pyecharts](https://github.com/pyecharts/pyecharts) Python Echarts Plotting Library 
+* [haipproxy](https://github.com/SpiderClub/haipproxy) High available ip proxy pool, powerd by Scrapy and Redis
+* [sentry](https://github.com/getsentry/sentry) Sentry is cross-platform application monitoring, with a focus on error reporting
   
 
 **go**
@@ -123,7 +123,6 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [gophernotes](https://github.com/gopherdata/gophernotes) The Go kernel for Jupyter notebooks and nteract.
 * [hystrix-go](https://github.com/afex/hystrix-go) Netflix's Hystrix latency and fault tolerance library, for Go
 * [fasthttp](https://github.com/valyala/fasthttp) Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-* [grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC
 * [beego](https://github.com/astaxie/beego) beego is an open-source, high-performance web framework for the Go programming language
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) A golang ebook intro how to build a web with golang
 * [go-best-practice](https://github.com/astaxie/go-best-practice) Trying to complete over 100 projects in various categories in golang
@@ -133,7 +132,6 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [uuid](https://github.com/satori/go.uuid) UUID package for Go
 * [riot](https://github.com/go-ego/riot) Go Open Source, Distributed, Simple and efficient Search Engine
 * [micro](https://github.com/micro/micro)  cloud-native toolkit for building future-proof systems https://micro.mu
-* [go-micro](https://github.com/micro/go-micro) A pluggable RPC framework https://micro.mu
 * [confd](https://github.com/kelseyhightower/confd) Manage local application configuration files using templates and data from etcd or consul
 * [evio](https://github.com/tidwall/evio) Fast event-loop networking for Go
 * [jaeger](https://github.com/jaegertracing/jaeger) CNCF Jaeger, a Distributed Tracing System https://jaegertracing.io/
@@ -148,7 +146,9 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [qtunnel](https://github.com/getqujing/qtunnel) A secure socket tunnel works on getqujing.com
 * [logrus](https://github.com/sirupsen/logrus) Structured, pluggable logging for Go
 * [govendor](https://github.com/kardianos/govendor) Go vendor tool that works with the standard vendor file.
-
+* [mqant](https://github.com/liangdas/mqant) Mqant is a simple, efficient, high performance distributed game server framework based on Golang language
+* [go-iterator](https://github.com/json-iterator/go) A high-performance 100% compatible drop-in replacement of "encoding/json" 
+* [go-queue](https://github.com/yireyun/go-queue) High-performance lock-free queue (Disruptor 1400/s)
 
 **front**
 
@@ -166,6 +166,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [ant-design-pro](https://github.com/ant-design/ant-design-pro)  Use Ant Design like a Pro
 * [vue2-elm](https://github.com/bailicangdu/vue2-elm) vue2 + vuex build a simple pages 
 * [vue2-manage](https://github.com/bailicangdu/vue2-manage) vue + element-ui admin system
+* [tabler](https://github.com/tabler/tabler) Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4
+* [apidoc](https://github.com/apidoc/apidoc) RESTful web API Documentation Generator
 
 
 ------
@@ -204,6 +206,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [orchestrator](https://github.com/outbrain/orchestrator) MySQL replication topology manager/visualizer
 * [AliSQL](https://github.com/alibaba/AliSQL) liSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom.
 * [percona-server](https://github.com/percona/percona-server) Percona Server 
+* [mysql-server](https://github.com/mysql/mysql-server) MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database
+* [xenon](https://github.com/radondb/xenon) The MySQL Cluster Autopilot Management with GTID and Raft
 
 **proxy**
 
@@ -219,6 +223,8 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [reading-code-of-nginx](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) reading of nginx for chinese
 * [nginx](https://github.com/nginx/nginx) nginx-resource
 * [kcp](https://github.com/skywind3000/kcp) KCP - A Fast and Reliable ARQ Protocol
+* [goproxy](https://github.com/snail007/goproxy) Proxy is a high performance HTTP(S), websocket, TCP, UDP, Socks5 proxy server implemented by golang
+* [LVS](https://github.com/alibaba/LVS) A distribution of Linux Virtual Server with some advanced features. It introduces a new packet forwarding method - FULLNAT other than NAT/Tunneling/DirectRouting, and defense mechanism against synflooding attack - SYNPROXY.
 
 
 **distributed systems**
@@ -234,6 +240,7 @@ Apache Dubbo (incubating) is a high-performance, java based, open source RPC fra
 * [eventproxy](https://github.com/JacksonTian/eventproxy) An implementation of task/event based asynchronous pattern. 
 * [raft-zh_cn](https://github.com/maemual/raft-zh_cn) raft for zh_cn
 * [raft-boltdb](https://github.com/hashicorp/raft-boltdb) Raft backend implementation using BoltDB
+* [phxpaxos](https://github.com/Tencent/phxpaxos) C++ Paxos library that has been used in Wechat production environment.
 
 
 **file-system | databases**
@@ -269,6 +276,7 @@ configure applications across dynamic, distributed infrastructure
 * [pegasus](https://github.com/XiaoMi/pegasus) A distributed key-value storage system developed and maintained by Xiaomi Cloud Storage Team
 * [db_tutorial](https://github.com/cstack/db_tutorial/) Writing a sqlite clone from scratch in C https://cstack.github.io/db_tutorial
 * [buntdb](https://github.com/tidwall/buntdb) BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
+* [foundationdb](https://github.com/apple/foundationdb) FoundationDB - the open source, distributed, transactional key-value store
 
  
 **container**
@@ -286,11 +294,22 @@ configure applications across dynamic, distributed infrastructure
 * [faas-netes](https://github.com/openfaas/faas-netes) https://github.com/openfaas/faas-netes
 * [ingress-nginx](https://github.com/kubernetes/ingress-nginx) NGINX Ingress Controller for Kubernetes
 * [charts](https://github.com/kubernetes/charts) Curated applications for Kubernetes
+* [harbor](https://github.com/vmware/harbor) An enterprise-class container registry server based on Docker Distribution
+* [scope](https://github.com/weaveworks/scope) Monitoring, visualisation & management for Docker & Kubernetes
+* [weave](https://github.com/weaveworks/weave) Simple, resilient multi-host Docker networking and more
 
 **microservices**
 
 * [microservices](https://github.com/DocsHome/microservices) Microservices from Design to Deployment for  chinese
 * [envoy](https://github.com/envoyproxy/envoy) C++ front/service proxy 
+* [finagle](https://github.com/twitter/finagle) A fault tolerant, protocol-agnostic RPC system
+* [duboox](https://github.com/dangdangdotcom/dubbox) Dubbox now means Dubbo eXtensions, and it adds features like RESTful remoting, Kyro/FST serialization, etc to the Dubbo service framework
+* [incubator-dubbo](https://github.com/apache/incubator-dubbo) 
+Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
+* [grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC
+* [soft-pbrpc](https://github.com/baidu/sofa-pbrpc) A light-weight RPC implement of google protobuf RPC framework
+* [motan](https://github.com/weibocom/motan) A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services.
+* [go-micro](https://github.com/micro/go-micro) A pluggable RPC framework https://micro.mu
 
 ------
 
@@ -300,6 +319,7 @@ configure applications across dynamic, distributed infrastructure
 * [Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) some linux tutorial
 * [Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) How to Make a Computer Operating System in C++
 * [Chinese-uvbook](https://github.com/luohaha/Chinese-uvbook) Chinese for libuv
+* [linux-insides-zh](https://github.com/MintCN/linux-insides-zh) Linux insides chinses
 
 
 
@@ -326,6 +346,11 @@ configure applications across dynamic, distributed infrastructure
 * [incubator-mxnet](https://github.com/apache/incubator-mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 * [kubeflow](https://github.com/kubeflow/kubeflow) Machine Learning Toolkit for Kubernetes
 * [tnsorflow-docs](https://github.com/xitu/tensorflow-docs) tensorflow-docs for chinese
+* [deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books) Deeplearning ai books for wuenda
+* [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) Learning notebook for Wuenda
+* [keras](https://github.com/keras-team/keras) Deep Learning for humans
+* [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples) 21 examples for deep-learning
+* [pytorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 
 **monitor**
@@ -354,6 +379,7 @@ configure applications across dynamic, distributed infrastructure
 * [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) A curated list for awesome kubernetes sources
 * [awesome-react](https://github.com/enaqx/awesome-react) A collection of awesome things regarding React ecosystem.
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) Awesome-blockchain for chinese
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) Architect awesome
 
 
 **team**
@@ -384,3 +410,5 @@ configure applications across dynamic, distributed infrastructure
 * [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 A list of cool features of Git and GitHub.
 * [open-source-team](https://github.com/niezhiyang/open_source_team) china open source team
+* [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) architecture of internet product
+
